@@ -1,5 +1,6 @@
 from PIL import Image
 import numpy as np
+
 img = Image.open("img2.jpg")
 arr = np.array(img)
 a = len(arr)

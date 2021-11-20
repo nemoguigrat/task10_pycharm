@@ -25,7 +25,6 @@ class GrayMosaicFilter:
                                                                              self.gradation
 
 
-
 image_input_name = 'img2.jpg'
 mosaic_size = 10
 gradation_level = 5
